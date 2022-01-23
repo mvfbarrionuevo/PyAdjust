@@ -22,7 +22,7 @@ Alternatively, you can clone this repo into a directory which is in PyMOL's plug
 
 ## Created by
 
-[Manoel Victor Frutuoso Barrionuevo](manoelvfb@live.ca)
+[Manoel Victor Frutuoso Barrionuevo](https://github.com/mvfbarrionuevo)
 
 ## License
 
