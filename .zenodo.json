@@ -1,0 +1,28 @@
+{
+    "description": "<p>Simple python API for PyMOL, which is intended to perform atomic position correction in a periodic boundary XY-plane.</p>", 
+    "license": "other-open", 
+    "title": "PyAdjust", 
+    "notes": "If you use this software, please cite it as below.", 
+    "version": "1.0.0", 
+    "upload_type": "software", 
+    "publication_date": "2022-01-23", 
+    "creators": [
+        {
+            "orcid": "0000-0002-3720-9540", 
+            "name": "Frutuoso Barrionuevo, Manoel Victor"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/mvfbarrionuevo/PyAdjust/tree/pyadjust-v.1.0.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5895105", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
