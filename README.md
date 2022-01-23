@@ -30,3 +30,4 @@ Alternatively, you can clone this repo into a directory which is in PyMOL's plug
 
 ## Citing
 
+[![DOI](https://zenodo.org/badge/451249743.svg)](https://zenodo.org/badge/latestdoi/451249743)
